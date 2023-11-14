@@ -1,0 +1,46 @@
+{
+    "name": "Leito Throne Anal Doggy",
+    "modpack": "LeitoAnimations",
+    "length": 2.9,
+    "destination": "LeitoThroneAnalDoggy-4",
+    "speeds": [
+        {
+            "animation": "LeitoThroneAnalDoggy_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "leito",
+        "transition"
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "name": "Leito Throne Anal Reverse Cowgirl",
+    "modpack": "LeitoAnimations",
+    "length": 4.9,
+    "destination": "LeitoThroneAnalReCow-4",
+    "speeds": [
+        {
+            "animation": "LeitoThroneAnalReCow_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 7,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "leito",
+        "reversecowgirl",
+        "transition"
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "Leito 69",
+    "modpack": "LeitoAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "LeitoHumanPage1",
+            "description": "Leito 69",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "Leito69-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "LeitoHumanPage1",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "Leito69_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "handjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "leito",
+        "69",
+        "sixtynine"
+    ]
+}

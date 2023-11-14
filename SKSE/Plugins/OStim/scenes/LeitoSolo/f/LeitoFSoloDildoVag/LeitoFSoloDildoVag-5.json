@@ -1,0 +1,37 @@
+{
+    "name": "Leito Female Dildo Vaginal",
+    "modpack": "LeitoAnimations",
+    "length": 4.9,
+    "destination": "LeitoFSoloDildoVag-4",
+    "speeds": [
+        {
+            "animation": "LeitoFSoloDildoVag_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginaltoying",
+            "actor": 0,
+            "target": 0
+        },
+        {
+            "type": "femalemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "leito",
+        "transition"
+    ]
+}

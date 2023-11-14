@@ -1,0 +1,155 @@
+b -Tn LeitoBed69_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBed69\LeitoBed69_1_1.hkx  
+b -Tn LeitoBed69_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBed69\LeitoBed69_2_1.hkx  
+b -Tn LeitoBed69_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBed69\LeitoBed69_3_1.hkx  
+b -Tn LeitoBed69_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBed69\LeitoBed69_4_1.hkx  
+b -Tn LeitoBed69_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBed69\LeitoBed69_5_1.hkx  
+b -o LeitoBed69_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBed69\LeitoBed69_1_0.hkx AOnoblebeddouble 
+b -o LeitoBed69_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBed69\LeitoBed69_2_0.hkx AOnoblebeddouble 
+b -o LeitoBed69_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBed69\LeitoBed69_3_0.hkx AOnoblebeddouble 
+b -o LeitoBed69_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBed69\LeitoBed69_4_0.hkx AOnoblebeddouble 
+b -o LeitoBed69_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBed69\LeitoBed69_5_0.hkx AOnoblebeddouble 
+b -Tn LeitoBedAnalDoggy_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalDoggy\LeitoBedAnalDoggy_1_1.hkx  
+b -Tn LeitoBedAnalDoggy_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalDoggy\LeitoBedAnalDoggy_2_1.hkx  
+b -Tn LeitoBedAnalDoggy_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalDoggy\LeitoBedAnalDoggy_3_1.hkx  
+b -Tn LeitoBedAnalDoggy_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalDoggy\LeitoBedAnalDoggy_4_1.hkx  
+b -Tn LeitoBedAnalDoggy_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalDoggy\LeitoBedAnalDoggy_5_1.hkx  
+b -o LeitoBedAnalDoggy_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalDoggy\LeitoBedAnalDoggy_1_0.hkx AOnoblebeddouble 
+b -o LeitoBedAnalDoggy_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalDoggy\LeitoBedAnalDoggy_2_0.hkx AOnoblebeddouble 
+b -o LeitoBedAnalDoggy_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalDoggy\LeitoBedAnalDoggy_3_0.hkx AOnoblebeddouble 
+b -o LeitoBedAnalDoggy_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalDoggy\LeitoBedAnalDoggy_4_0.hkx AOnoblebeddouble 
+b -o LeitoBedAnalDoggy_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalDoggy\LeitoBedAnalDoggy_5_0.hkx AOnoblebeddouble 
+b -Tn LeitoBedAnalReCow_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalReCow\LeitoBedAnalReCow_1_1.hkx  
+b -Tn LeitoBedAnalReCow_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalReCow\LeitoBedAnalReCow_2_1.hkx  
+b -Tn LeitoBedAnalReCow_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalReCow\LeitoBedAnalReCow_3_1.hkx  
+b -Tn LeitoBedAnalReCow_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalReCow\LeitoBedAnalReCow_4_1.hkx  
+b -Tn LeitoBedAnalReCow_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalReCow\LeitoBedAnalReCow_5_1.hkx  
+b -o LeitoBedAnalReCow_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalReCow\LeitoBedAnalReCow_1_0.hkx AOnoblebeddouble 
+b -o LeitoBedAnalReCow_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalReCow\LeitoBedAnalReCow_2_0.hkx AOnoblebeddouble 
+b -o LeitoBedAnalReCow_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalReCow\LeitoBedAnalReCow_3_0.hkx AOnoblebeddouble 
+b -o LeitoBedAnalReCow_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalReCow\LeitoBedAnalReCow_4_0.hkx AOnoblebeddouble 
+b -o LeitoBedAnalReCow_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedAnalReCow\LeitoBedAnalReCow_5_0.hkx AOnoblebeddouble 
+b -Tn LeitoBedCowgirl_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedCowgirl\LeitoBedCowgirl_1_1.hkx  
+b -Tn LeitoBedCowgirl_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedCowgirl\LeitoBedCowgirl_2_1.hkx  
+b -Tn LeitoBedCowgirl_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedCowgirl\LeitoBedCowgirl_3_1.hkx  
+b -Tn LeitoBedCowgirl_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedCowgirl\LeitoBedCowgirl_4_1.hkx  
+b -Tn LeitoBedCowgirl_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedCowgirl\LeitoBedCowgirl_5_1.hkx  
+b -o LeitoBedCowgirl_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedCowgirl\LeitoBedCowgirl_1_0.hkx AOnoblebeddouble 
+b -o LeitoBedCowgirl_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedCowgirl\LeitoBedCowgirl_2_0.hkx AOnoblebeddouble 
+b -o LeitoBedCowgirl_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedCowgirl\LeitoBedCowgirl_3_0.hkx AOnoblebeddouble 
+b -o LeitoBedCowgirl_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedCowgirl\LeitoBedCowgirl_4_0.hkx AOnoblebeddouble 
+b -o LeitoBedCowgirl_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedCowgirl\LeitoBedCowgirl_5_0.hkx AOnoblebeddouble 
+b -Tn LeitoBedDoggy_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedDoggy\LeitoBedDoggy_1_1.hkx  
+b -Tn LeitoBedDoggy_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedDoggy\LeitoBedDoggy_2_1.hkx  
+b -Tn LeitoBedDoggy_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedDoggy\LeitoBedDoggy_3_1.hkx  
+b -Tn LeitoBedDoggy_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedDoggy\LeitoBedDoggy_4_1.hkx  
+b -Tn LeitoBedDoggy_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedDoggy\LeitoBedDoggy_5_1.hkx  
+b -o LeitoBedDoggy_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedDoggy\LeitoBedDoggy_1_0.hkx AOnoblebeddouble 
+b -o LeitoBedDoggy_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedDoggy\LeitoBedDoggy_2_0.hkx AOnoblebeddouble 
+b -o LeitoBedDoggy_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedDoggy\LeitoBedDoggy_3_0.hkx AOnoblebeddouble 
+b -o LeitoBedDoggy_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedDoggy\LeitoBedDoggy_4_0.hkx AOnoblebeddouble 
+b -o LeitoBedDoggy_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedDoggy\LeitoBedDoggy_5_0.hkx AOnoblebeddouble 
+b -Tn LeitoBedFeetMissionary_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedFeetMissionary\LeitoBedFeetMissionary_1_1.hkx  
+b -Tn LeitoBedFeetMissionary_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedFeetMissionary\LeitoBedFeetMissionary_2_1.hkx  
+b -Tn LeitoBedFeetMissionary_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedFeetMissionary\LeitoBedFeetMissionary_3_1.hkx  
+b -Tn LeitoBedFeetMissionary_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedFeetMissionary\LeitoBedFeetMissionary_4_1.hkx  
+b -Tn LeitoBedFeetMissionary_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedFeetMissionary\LeitoBedFeetMissionary_5_1.hkx  
+b -o LeitoBedFeetMissionary_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedFeetMissionary\LeitoBedFeetMissionary_1_0.hkx AOnoblebeddouble 
+b -o LeitoBedFeetMissionary_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedFeetMissionary\LeitoBedFeetMissionary_2_0.hkx AOnoblebeddouble 
+b -o LeitoBedFeetMissionary_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedFeetMissionary\LeitoBedFeetMissionary_3_0.hkx AOnoblebeddouble 
+b -o LeitoBedFeetMissionary_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedFeetMissionary\LeitoBedFeetMissionary_4_0.hkx AOnoblebeddouble 
+b -o LeitoBedFeetMissionary_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedFeetMissionary\LeitoBedFeetMissionary_5_0.hkx AOnoblebeddouble 
+b -Tn LeitoBedMissionary_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedMissionary\LeitoBedMissionary_1_1.hkx  
+b -Tn LeitoBedMissionary_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedMissionary\LeitoBedMissionary_2_1.hkx  
+b -Tn LeitoBedMissionary_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedMissionary\LeitoBedMissionary_3_1.hkx  
+b -Tn LeitoBedMissionary_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedMissionary\LeitoBedMissionary_4_1.hkx  
+b -Tn LeitoBedMissionary_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoBedMissionary\LeitoBedMissionary_5_1.hkx  
+b -o LeitoBedMissionary_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedMissionary\LeitoBedMissionary_1_0.hkx AOnoblebeddouble 
+b -o LeitoBedMissionary_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedMissionary\LeitoBedMissionary_2_0.hkx AOnoblebeddouble 
+b -o LeitoBedMissionary_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedMissionary\LeitoBedMissionary_3_0.hkx AOnoblebeddouble 
+b -o LeitoBedMissionary_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedMissionary\LeitoBedMissionary_4_0.hkx AOnoblebeddouble 
+b -o LeitoBedMissionary_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoBedMissionary\LeitoBedMissionary_5_0.hkx AOnoblebeddouble 
+b -o LeitoFSoloChair_1_0 ..\LeitoSpawnedFurniture\fPos\LeitoFSoloChair\LeitoFSoloChair_1_0.hkx AONobleChair 
+b -o LeitoFSoloChair_2_0 ..\LeitoSpawnedFurniture\fPos\LeitoFSoloChair\LeitoFSoloChair_2_0.hkx AONobleChair 
+b -o LeitoFSoloChair_3_0 ..\LeitoSpawnedFurniture\fPos\LeitoFSoloChair\LeitoFSoloChair_3_0.hkx AONobleChair 
+b -o LeitoFSoloChair_4_0 ..\LeitoSpawnedFurniture\fPos\LeitoFSoloChair\LeitoFSoloChair_4_0.hkx AONobleChair 
+b -o LeitoFSoloChair_5_0 ..\LeitoSpawnedFurniture\fPos\LeitoFSoloChair\LeitoFSoloChair_5_0.hkx AONobleChair 
+b -Tn LeitoThroneAnalDoggy_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalDoggy\LeitoThroneAnalDoggy_1_1.hkx  
+b -Tn LeitoThroneAnalDoggy_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalDoggy\LeitoThroneAnalDoggy_2_1.hkx  
+b -Tn LeitoThroneAnalDoggy_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalDoggy\LeitoThroneAnalDoggy_3_1.hkx  
+b -Tn LeitoThroneAnalDoggy_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalDoggy\LeitoThroneAnalDoggy_4_1.hkx  
+b -Tn LeitoThroneAnalDoggy_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalDoggy\LeitoThroneAnalDoggy_5_1.hkx  
+b -o LeitoThroneAnalDoggy_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalDoggy\LeitoThroneAnalDoggy_1_0.hkx AOThrone 
+b -o LeitoThroneAnalDoggy_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalDoggy\LeitoThroneAnalDoggy_2_0.hkx AOThrone 
+b -o LeitoThroneAnalDoggy_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalDoggy\LeitoThroneAnalDoggy_3_0.hkx AOThrone 
+b -o LeitoThroneAnalDoggy_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalDoggy\LeitoThroneAnalDoggy_4_0.hkx AOThrone 
+b -o LeitoThroneAnalDoggy_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalDoggy\LeitoThroneAnalDoggy_5_0.hkx AOThrone 
+b -Tn LeitoThroneAnalReCow_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalReCow\LeitoThroneAnalReCow_1_1.hkx  
+b -Tn LeitoThroneAnalReCow_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalReCow\LeitoThroneAnalReCow_2_1.hkx  
+b -Tn LeitoThroneAnalReCow_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalReCow\LeitoThroneAnalReCow_3_1.hkx  
+b -Tn LeitoThroneAnalReCow_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalReCow\LeitoThroneAnalReCow_4_1.hkx  
+b -Tn LeitoThroneAnalReCow_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalReCow\LeitoThroneAnalReCow_5_1.hkx  
+b -o LeitoThroneAnalReCow_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalReCow\LeitoThroneAnalReCow_1_0.hkx AOThrone 
+b -o LeitoThroneAnalReCow_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalReCow\LeitoThroneAnalReCow_2_0.hkx AOThrone 
+b -o LeitoThroneAnalReCow_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalReCow\LeitoThroneAnalReCow_3_0.hkx AOThrone 
+b -o LeitoThroneAnalReCow_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalReCow\LeitoThroneAnalReCow_4_0.hkx AOThrone 
+b -o LeitoThroneAnalReCow_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneAnalReCow\LeitoThroneAnalReCow_5_0.hkx AOThrone 
+b -Tn LeitoThroneBj_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneBj\LeitoThroneBj_1_1.hkx  
+b -Tn LeitoThroneBj_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneBj\LeitoThroneBj_2_1.hkx  
+b -Tn LeitoThroneBj_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneBj\LeitoThroneBj_3_1.hkx  
+b -Tn LeitoThroneBj_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneBj\LeitoThroneBj_4_1.hkx  
+b -Tn LeitoThroneBj_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneBj\LeitoThroneBj_5_1.hkx  
+b -o LeitoThroneBj_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneBj\LeitoThroneBj_1_0.hkx AOThrone 
+b -o LeitoThroneBj_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneBj\LeitoThroneBj_2_0.hkx AOThrone 
+b -o LeitoThroneBj_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneBj\LeitoThroneBj_3_0.hkx AOThrone 
+b -o LeitoThroneBj_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneBj\LeitoThroneBj_4_0.hkx AOThrone 
+b -o LeitoThroneBj_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneBj\LeitoThroneBj_5_0.hkx AOThrone 
+b -Tn LeitoThroneCowgirl_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCowgirl\LeitoThroneCowgirl_1_1.hkx  
+b -Tn LeitoThroneCowgirl_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCowgirl\LeitoThroneCowgirl_2_1.hkx  
+b -Tn LeitoThroneCowgirl_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCowgirl\LeitoThroneCowgirl_3_1.hkx  
+b -Tn LeitoThroneCowgirl_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCowgirl\LeitoThroneCowgirl_4_1.hkx  
+b -Tn LeitoThroneCowgirl_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCowgirl\LeitoThroneCowgirl_5_1.hkx  
+b -o LeitoThroneCowgirl_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCowgirl\LeitoThroneCowgirl_1_0.hkx AOThrone 
+b -o LeitoThroneCowgirl_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCowgirl\LeitoThroneCowgirl_2_0.hkx AOThrone 
+b -o LeitoThroneCowgirl_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCowgirl\LeitoThroneCowgirl_3_0.hkx AOThrone 
+b -o LeitoThroneCowgirl_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCowgirl\LeitoThroneCowgirl_4_0.hkx AOThrone 
+b -o LeitoThroneCowgirl_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCowgirl\LeitoThroneCowgirl_5_0.hkx AOThrone 
+b -Tn LeitoThroneCunnilingus_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCunnilingus\LeitoThroneCunnilingus_1_1.hkx  
+b -Tn LeitoThroneCunnilingus_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCunnilingus\LeitoThroneCunnilingus_2_1.hkx  
+b -Tn LeitoThroneCunnilingus_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCunnilingus\LeitoThroneCunnilingus_3_1.hkx  
+b -Tn LeitoThroneCunnilingus_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCunnilingus\LeitoThroneCunnilingus_4_1.hkx  
+b -Tn LeitoThroneCunnilingus_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCunnilingus\LeitoThroneCunnilingus_5_1.hkx  
+b -o LeitoThroneCunnilingus_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCunnilingus\LeitoThroneCunnilingus_1_0.hkx AOThrone 
+b -o LeitoThroneCunnilingus_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCunnilingus\LeitoThroneCunnilingus_2_0.hkx AOThrone 
+b -o LeitoThroneCunnilingus_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCunnilingus\LeitoThroneCunnilingus_3_0.hkx AOThrone 
+b -o LeitoThroneCunnilingus_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCunnilingus\LeitoThroneCunnilingus_4_0.hkx AOThrone 
+b -o LeitoThroneCunnilingus_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneCunnilingus\LeitoThroneCunnilingus_5_0.hkx AOThrone 
+b -Tn LeitoThroneDoggy_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneDoggy\LeitoThroneDoggy_1_1.hkx  
+b -Tn LeitoThroneDoggy_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneDoggy\LeitoThroneDoggy_2_1.hkx  
+b -Tn LeitoThroneDoggy_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneDoggy\LeitoThroneDoggy_3_1.hkx  
+b -Tn LeitoThroneDoggy_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneDoggy\LeitoThroneDoggy_4_1.hkx  
+b -Tn LeitoThroneDoggy_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneDoggy\LeitoThroneDoggy_5_1.hkx  
+b -o LeitoThroneDoggy_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneDoggy\LeitoThroneDoggy_1_0.hkx AOThrone 
+b -o LeitoThroneDoggy_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneDoggy\LeitoThroneDoggy_2_0.hkx AOThrone 
+b -o LeitoThroneDoggy_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneDoggy\LeitoThroneDoggy_3_0.hkx AOThrone 
+b -o LeitoThroneDoggy_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneDoggy\LeitoThroneDoggy_4_0.hkx AOThrone 
+b -o LeitoThroneDoggy_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneDoggy\LeitoThroneDoggy_5_0.hkx AOThrone 
+b -Tn LeitoThroneMissionary_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneMissionary\LeitoThroneMissionary_1_1.hkx  
+b -Tn LeitoThroneMissionary_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneMissionary\LeitoThroneMissionary_2_1.hkx  
+b -Tn LeitoThroneMissionary_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneMissionary\LeitoThroneMissionary_3_1.hkx  
+b -Tn LeitoThroneMissionary_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneMissionary\LeitoThroneMissionary_4_1.hkx  
+b -Tn LeitoThroneMissionary_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneMissionary\LeitoThroneMissionary_5_1.hkx  
+b -o LeitoThroneMissionary_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneMissionary\LeitoThroneMissionary_1_0.hkx AOThrone 
+b -o LeitoThroneMissionary_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneMissionary\LeitoThroneMissionary_2_0.hkx AOThrone 
+b -o LeitoThroneMissionary_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneMissionary\LeitoThroneMissionary_3_0.hkx AOThrone 
+b -o LeitoThroneMissionary_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneMissionary\LeitoThroneMissionary_4_0.hkx AOThrone 
+b -o LeitoThroneMissionary_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoThroneMissionary\LeitoThroneMissionary_5_0.hkx AOThrone 
+b -Tn LeitoUnicorn_1_1 ..\LeitoSpawnedFurniture\fmPos\LeitoUnicorn\LeitoUnicorn_1_1.hkx  
+b -Tn LeitoUnicorn_2_1 ..\LeitoSpawnedFurniture\fmPos\LeitoUnicorn\LeitoUnicorn_2_1.hkx  
+b -Tn LeitoUnicorn_3_1 ..\LeitoSpawnedFurniture\fmPos\LeitoUnicorn\LeitoUnicorn_3_1.hkx  
+b -Tn LeitoUnicorn_4_1 ..\LeitoSpawnedFurniture\fmPos\LeitoUnicorn\LeitoUnicorn_4_1.hkx  
+b -Tn LeitoUnicorn_5_1 ..\LeitoSpawnedFurniture\fmPos\LeitoUnicorn\LeitoUnicorn_5_1.hkx  
+b -o LeitoUnicorn_1_0 ..\LeitoSpawnedFurniture\fmPos\LeitoUnicorn\LeitoUnicorn_1_0.hkx AOUnicorn 
+b -o LeitoUnicorn_2_0 ..\LeitoSpawnedFurniture\fmPos\LeitoUnicorn\LeitoUnicorn_2_0.hkx AOUnicorn 
+b -o LeitoUnicorn_3_0 ..\LeitoSpawnedFurniture\fmPos\LeitoUnicorn\LeitoUnicorn_3_0.hkx AOUnicorn 
+b -o LeitoUnicorn_4_0 ..\LeitoSpawnedFurniture\fmPos\LeitoUnicorn\LeitoUnicorn_4_0.hkx AOUnicorn 
+b -o LeitoUnicorn_5_0 ..\LeitoSpawnedFurniture\fmPos\LeitoUnicorn\LeitoUnicorn_5_0.hkx AOUnicorn 

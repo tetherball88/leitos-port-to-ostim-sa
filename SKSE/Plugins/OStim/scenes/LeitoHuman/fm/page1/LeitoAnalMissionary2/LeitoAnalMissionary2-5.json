@@ -1,0 +1,44 @@
+{
+    "name": "Leito Anal Missionary 2",
+    "modpack": "LeitoAnimations",
+    "length": 2.1,
+    "destination": "LeitoAnalMissionary2-4",
+    "speeds": [
+        {
+            "animation": "LeitoAnalMissionary2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -3,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "leito",
+        "missionary",
+        "transition"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "name": "Leito Bed Missionary",
+    "modpack": "LeitoAnimations",
+    "length": 2.9,
+    "destination": "LeitoBedMissionary-4",
+    "speeds": [
+        {
+            "animation": "LeitoBedMissionary_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "leito",
+        "transition"
+    ]
+}

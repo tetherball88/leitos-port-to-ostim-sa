@@ -1,0 +1,55 @@
+{
+    "name": "Leito Bed Anal Doggy",
+    "modpack": "LeitoAnimations",
+    "length": 2.3,
+    "destination": "LeitoBedAnalDoggy-4",
+    "speeds": [
+        {
+            "animation": "LeitoBedAnalDoggy_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "pullinghair",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "femalemasturbation",
+            "actor": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "leito",
+        "doggystyle",
+        "transition"
+    ]
+}

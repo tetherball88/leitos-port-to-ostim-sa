@@ -1,0 +1,29 @@
+{
+    "name": "Leito Female Toy Vaginal",
+    "modpack": "LeitoAnimations",
+    "length": 2.333333,
+    "destination": "LeitoFSoloToyCowgirlVag-2",
+    "origin": "LeitoSoloFHub",
+    "description": "Leito Female Toy Vaginal",
+    "speeds": [
+        {
+            "animation": "LeitoFSoloToyCowgirlVag_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting"
+            ]
+        }
+    ],
+    "actions": [],
+    "noRandomSelection": true,
+    "tags": [
+        "leito",
+        "transition"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "Leito Anal Doggy 2",
+    "modpack": "LeitoAnimations",
+    "length": 1.9,
+    "destination": "LeitoAnalDoggy2-4",
+    "speeds": [
+        {
+            "animation": "LeitoAnalDoggy2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingarm",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "leito",
+        "doggystyle",
+        "transition"
+    ]
+}

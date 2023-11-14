@@ -1,0 +1,45 @@
+{
+    "name": "Leito Doggy 2",
+    "modpack": "LeitoAnimations",
+    "length": 2.1,
+    "destination": "LeitoDoggy2-4",
+    "speeds": [
+        {
+            "animation": "LeitoDoggy2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 5,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "leito",
+        "doggystyle",
+        "transition"
+    ]
+}

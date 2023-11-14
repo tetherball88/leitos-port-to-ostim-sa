@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoAnalMissionary2-1",
+            "duration": 1.6
+        },
+        {
+            "id": "LeitoAnalMissionary2-2",
+            "duration": 0.533333
+        },
+        {
+            "id": "LeitoAnalMissionary2-3",
+            "duration": 0.466667
+        },
+        {
+            "id": "LeitoAnalMissionary2-4",
+            "duration": 0.366667
+        },
+        {
+            "id": "LeitoAnalMissionary2-5",
+            "duration": 1.133333
+        }
+    ],
+    "tags": []
+}

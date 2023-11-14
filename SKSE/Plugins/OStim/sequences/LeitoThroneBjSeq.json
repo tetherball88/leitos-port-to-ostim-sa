@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoThroneBj-1",
+            "duration": 2
+        },
+        {
+            "id": "LeitoThroneBj-2",
+            "duration": 2
+        },
+        {
+            "id": "LeitoThroneBj-3",
+            "duration": 1.666667
+        },
+        {
+            "id": "LeitoThroneBj-4",
+            "duration": 1.333333
+        },
+        {
+            "id": "LeitoThroneBj-5",
+            "duration": 1.333333
+        }
+    ],
+    "tags": []
+}

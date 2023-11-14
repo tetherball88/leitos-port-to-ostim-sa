@@ -1,0 +1,47 @@
+{
+    "name": "Leito Lesbian Double Dildo",
+    "modpack": "LeitoAnimations",
+    "length": 4.9,
+    "destination": "LeitoLesbianDildo1-4",
+    "speeds": [
+        {
+            "animation": "LeitoLesbianDildo1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginaltoying",
+            "actor": 0,
+            "target": 0
+        },
+        {
+            "type": "vaginaltoying",
+            "actor": 1,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "leito",
+        "transition"
+    ]
+}

@@ -1,0 +1,40 @@
+b -Tn LeitoLesbian1_1_0 ..\LeitoLesbian\ffPos\LeitoLesbian1\LeitoLesbian1_1_0.hkx  
+b -Tn LeitoLesbian1_2_0 ..\LeitoLesbian\ffPos\LeitoLesbian1\LeitoLesbian1_2_0.hkx  
+b -Tn LeitoLesbian1_3_0 ..\LeitoLesbian\ffPos\LeitoLesbian1\LeitoLesbian1_3_0.hkx  
+b -Tn LeitoLesbian1_4_0 ..\LeitoLesbian\ffPos\LeitoLesbian1\LeitoLesbian1_4_0.hkx  
+b -Tn LeitoLesbian1_5_0 ..\LeitoLesbian\ffPos\LeitoLesbian1\LeitoLesbian1_5_0.hkx  
+b -Tn LeitoLesbian1_1_1 ..\LeitoLesbian\ffPos\LeitoLesbian1\LeitoLesbian1_1_1.hkx  
+b -Tn LeitoLesbian1_2_1 ..\LeitoLesbian\ffPos\LeitoLesbian1\LeitoLesbian1_2_1.hkx  
+b -Tn LeitoLesbian1_3_1 ..\LeitoLesbian\ffPos\LeitoLesbian1\LeitoLesbian1_3_1.hkx  
+b -Tn LeitoLesbian1_4_1 ..\LeitoLesbian\ffPos\LeitoLesbian1\LeitoLesbian1_4_1.hkx  
+b -Tn LeitoLesbian1_5_1 ..\LeitoLesbian\ffPos\LeitoLesbian1\LeitoLesbian1_5_1.hkx  
+b -Tn LeitoLesbian2_1_0 ..\LeitoLesbian\ffPos\LeitoLesbian2\LeitoLesbian2_1_0.hkx  
+b -Tn LeitoLesbian2_2_0 ..\LeitoLesbian\ffPos\LeitoLesbian2\LeitoLesbian2_2_0.hkx  
+b -Tn LeitoLesbian2_3_0 ..\LeitoLesbian\ffPos\LeitoLesbian2\LeitoLesbian2_3_0.hkx  
+b -Tn LeitoLesbian2_4_0 ..\LeitoLesbian\ffPos\LeitoLesbian2\LeitoLesbian2_4_0.hkx  
+b -Tn LeitoLesbian2_5_0 ..\LeitoLesbian\ffPos\LeitoLesbian2\LeitoLesbian2_5_0.hkx  
+b -Tn LeitoLesbian2_1_1 ..\LeitoLesbian\ffPos\LeitoLesbian2\LeitoLesbian2_1_1.hkx  
+b -Tn LeitoLesbian2_2_1 ..\LeitoLesbian\ffPos\LeitoLesbian2\LeitoLesbian2_2_1.hkx  
+b -Tn LeitoLesbian2_3_1 ..\LeitoLesbian\ffPos\LeitoLesbian2\LeitoLesbian2_3_1.hkx  
+b -Tn LeitoLesbian2_4_1 ..\LeitoLesbian\ffPos\LeitoLesbian2\LeitoLesbian2_4_1.hkx  
+b -Tn LeitoLesbian2_5_1 ..\LeitoLesbian\ffPos\LeitoLesbian2\LeitoLesbian2_5_1.hkx  
+b -o LeitoLesbianDildo1_1_0 ..\LeitoLesbian\ffPos\LeitoLesbianDildo1\LeitoLesbianDildo1_1_0.hkx AODoubleDildo1 
+b -o LeitoLesbianDildo1_2_0 ..\LeitoLesbian\ffPos\LeitoLesbianDildo1\LeitoLesbianDildo1_2_0.hkx AODoubleDildo1 
+b -o LeitoLesbianDildo1_3_0 ..\LeitoLesbian\ffPos\LeitoLesbianDildo1\LeitoLesbianDildo1_3_0.hkx AODoubleDildo1 
+b -o LeitoLesbianDildo1_4_0 ..\LeitoLesbian\ffPos\LeitoLesbianDildo1\LeitoLesbianDildo1_4_0.hkx AODoubleDildo1 
+b -o LeitoLesbianDildo1_5_0 ..\LeitoLesbian\ffPos\LeitoLesbianDildo1\LeitoLesbianDildo1_5_0.hkx AODoubleDildo1 
+b -Tn LeitoLesbianDildo1_1_1 ..\LeitoLesbian\ffPos\LeitoLesbianDildo1\LeitoLesbianDildo1_1_1.hkx  
+b -Tn LeitoLesbianDildo1_2_1 ..\LeitoLesbian\ffPos\LeitoLesbianDildo1\LeitoLesbianDildo1_2_1.hkx  
+b -Tn LeitoLesbianDildo1_3_1 ..\LeitoLesbian\ffPos\LeitoLesbianDildo1\LeitoLesbianDildo1_3_1.hkx  
+b -Tn LeitoLesbianDildo1_4_1 ..\LeitoLesbian\ffPos\LeitoLesbianDildo1\LeitoLesbianDildo1_4_1.hkx  
+b -Tn LeitoLesbianDildo1_5_1 ..\LeitoLesbian\ffPos\LeitoLesbianDildo1\LeitoLesbianDildo1_5_1.hkx  
+b -o LeitoLesbianDildo2_1_0 ..\LeitoLesbian\ffPos\LeitoLesbianDildo2\LeitoLesbianDildo2_1_0.hkx AODoubleDildo1 
+b -o LeitoLesbianDildo2_2_0 ..\LeitoLesbian\ffPos\LeitoLesbianDildo2\LeitoLesbianDildo2_2_0.hkx AODoubleDildo1 
+b -o LeitoLesbianDildo2_3_0 ..\LeitoLesbian\ffPos\LeitoLesbianDildo2\LeitoLesbianDildo2_3_0.hkx AODoubleDildo1 
+b -o LeitoLesbianDildo2_4_0 ..\LeitoLesbian\ffPos\LeitoLesbianDildo2\LeitoLesbianDildo2_4_0.hkx AODoubleDildo1 
+b -o LeitoLesbianDildo2_5_0 ..\LeitoLesbian\ffPos\LeitoLesbianDildo2\LeitoLesbianDildo2_5_0.hkx AODoubleDildo1 
+b -Tn LeitoLesbianDildo2_1_1 ..\LeitoLesbian\ffPos\LeitoLesbianDildo2\LeitoLesbianDildo2_1_1.hkx  
+b -Tn LeitoLesbianDildo2_2_1 ..\LeitoLesbian\ffPos\LeitoLesbianDildo2\LeitoLesbianDildo2_2_1.hkx  
+b -Tn LeitoLesbianDildo2_3_1 ..\LeitoLesbian\ffPos\LeitoLesbianDildo2\LeitoLesbianDildo2_3_1.hkx  
+b -Tn LeitoLesbianDildo2_4_1 ..\LeitoLesbian\ffPos\LeitoLesbianDildo2\LeitoLesbianDildo2_4_1.hkx  
+b -Tn LeitoLesbianDildo2_5_1 ..\LeitoLesbian\ffPos\LeitoLesbianDildo2\LeitoLesbianDildo2_5_1.hkx  

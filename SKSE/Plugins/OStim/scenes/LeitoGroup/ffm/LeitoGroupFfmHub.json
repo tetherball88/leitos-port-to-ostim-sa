@@ -1,0 +1,50 @@
+{
+    "name": "LeitoGroupFfmHub",
+    "modpack": "LeitoGroup",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStim3PStandingMFF"
+        }
+    ],
+    "navigations": [
+        {
+            "origin": "OStim3PStandingMFF",
+            "description": "LeitoGroupFfmHub"
+        },
+        {
+            "destination": "OStim3PStandingMFF",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "standing"
+            ],
+            "feetOnGround": true
+        }
+    ],
+    "noRandomSelection": true
+}

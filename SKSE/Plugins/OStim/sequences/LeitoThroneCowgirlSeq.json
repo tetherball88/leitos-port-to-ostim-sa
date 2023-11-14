@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoThroneCowgirl-1",
+            "duration": 2
+        },
+        {
+            "id": "LeitoThroneCowgirl-2",
+            "duration": 1.333333
+        },
+        {
+            "id": "LeitoThroneCowgirl-3",
+            "duration": 1.333333
+        },
+        {
+            "id": "LeitoThroneCowgirl-4",
+            "duration": 0.533333
+        },
+        {
+            "id": "LeitoThroneCowgirl-5",
+            "duration": 1.666667
+        }
+    ],
+    "tags": []
+}

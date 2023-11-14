@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoFfm1-1",
+            "duration": 1.333333
+        },
+        {
+            "id": "LeitoFfm1-2",
+            "duration": 1.066667
+        },
+        {
+            "id": "LeitoFfm1-3",
+            "duration": 0.533333
+        },
+        {
+            "id": "LeitoFfm1-4",
+            "duration": 0.533333
+        },
+        {
+            "id": "LeitoFfm1-5",
+            "duration": 2
+        }
+    ],
+    "tags": []
+}

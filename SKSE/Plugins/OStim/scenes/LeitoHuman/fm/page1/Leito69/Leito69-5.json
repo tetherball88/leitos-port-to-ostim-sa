@@ -1,0 +1,51 @@
+{
+    "name": "Leito 69",
+    "modpack": "LeitoAnimations",
+    "length": 1.9,
+    "destination": "Leito69-4",
+    "speeds": [
+        {
+            "animation": "Leito69_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling",
+                "climaxing",
+                "facingaway"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "leito",
+        "69",
+        "sixtynine",
+        "transition"
+    ]
+}

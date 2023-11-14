@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoThroneMissionary-1",
+            "duration": 1
+        },
+        {
+            "id": "LeitoThroneMissionary-2",
+            "duration": 0.666667
+        },
+        {
+            "id": "LeitoThroneMissionary-3",
+            "duration": 0.533333
+        },
+        {
+            "id": "LeitoThroneMissionary-4",
+            "duration": 0.533333
+        },
+        {
+            "id": "LeitoThroneMissionary-5",
+            "duration": 1.666667
+        }
+    ],
+    "tags": []
+}

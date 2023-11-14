@@ -1,0 +1,55 @@
+{
+    "name": "Leito Anal Reverse Cowgirl",
+    "modpack": "LeitoAnimations",
+    "length": 2.1,
+    "destination": "LeitoAnalReCow-4",
+    "speeds": [
+        {
+            "animation": "LeitoAnalReCow_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 8,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 1,
+            "performer": 1
+        },
+        {
+            "type": "holdingbody",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "femalemasturbation",
+            "actor": 1
+        }
+    ],
+    "tags": [
+        "leito",
+        "reversecowgirl",
+        "transition"
+    ]
+}

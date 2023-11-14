@@ -1,0 +1,45 @@
+{
+    "name": "Leito Throne Cowgirl",
+    "modpack": "LeitoAnimations",
+    "length": 2.9,
+    "destination": "LeitoThroneCowgirl-4",
+    "speeds": [
+        {
+            "animation": "LeitoThroneCowgirl_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "leito",
+        "cowgirl",
+        "transition"
+    ]
+}

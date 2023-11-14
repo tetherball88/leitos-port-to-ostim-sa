@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoBedDoggy-1",
+            "duration": 1.333333
+        },
+        {
+            "id": "LeitoBedDoggy-2",
+            "duration": 0.533333
+        },
+        {
+            "id": "LeitoBedDoggy-3",
+            "duration": 0.466667
+        },
+        {
+            "id": "LeitoBedDoggy-4",
+            "duration": 0.4
+        },
+        {
+            "id": "LeitoBedDoggy-5",
+            "duration": 1.333333
+        }
+    ],
+    "tags": []
+}

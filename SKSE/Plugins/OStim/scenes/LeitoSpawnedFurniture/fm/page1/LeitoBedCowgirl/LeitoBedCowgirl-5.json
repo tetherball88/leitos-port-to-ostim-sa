@@ -1,0 +1,50 @@
+{
+    "name": "Leito Bed Cowgirl",
+    "modpack": "LeitoAnimations",
+    "length": 2.3,
+    "destination": "LeitoBedCowgirl-4",
+    "speeds": [
+        {
+            "animation": "LeitoBedCowgirl_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghand",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "leito",
+        "cowgirl",
+        "transition"
+    ]
+}

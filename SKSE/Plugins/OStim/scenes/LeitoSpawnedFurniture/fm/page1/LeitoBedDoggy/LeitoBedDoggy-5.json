@@ -1,0 +1,52 @@
+{
+    "name": "Leito Bed Doggy",
+    "modpack": "LeitoAnimations",
+    "length": 2.3,
+    "destination": "LeitoBedDoggy-4",
+    "speeds": [
+        {
+            "animation": "LeitoBedDoggy_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingarm",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "leito",
+        "doggystyle",
+        "transition"
+    ]
+}

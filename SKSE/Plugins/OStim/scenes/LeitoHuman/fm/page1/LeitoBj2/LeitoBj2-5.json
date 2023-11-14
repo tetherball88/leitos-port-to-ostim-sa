@@ -1,0 +1,47 @@
+{
+    "name": "Leito Blowjob 2",
+    "modpack": "LeitoAnimations",
+    "length": 3.8,
+    "destination": "LeitoBj2-4",
+    "speeds": [
+        {
+            "animation": "LeitoBj2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghead",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "leito",
+        "transition"
+    ]
+}

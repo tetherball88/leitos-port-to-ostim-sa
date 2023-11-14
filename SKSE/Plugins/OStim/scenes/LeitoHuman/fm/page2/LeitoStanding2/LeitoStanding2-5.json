@@ -1,0 +1,45 @@
+{
+    "name": "Leito Standing 2",
+    "modpack": "LeitoAnimations",
+    "length": 3.5,
+    "destination": "LeitoStanding2-4",
+    "speeds": [
+        {
+            "animation": "LeitoStanding2_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "leito",
+        "transition"
+    ]
+}

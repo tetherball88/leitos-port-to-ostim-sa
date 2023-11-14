@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoBedFeetMissionary-1",
+            "duration": 2.666667
+        },
+        {
+            "id": "LeitoBedFeetMissionary-2",
+            "duration": 1
+        },
+        {
+            "id": "LeitoBedFeetMissionary-3",
+            "duration": 0.933333
+        },
+        {
+            "id": "LeitoBedFeetMissionary-4",
+            "duration": 0.933333
+        },
+        {
+            "id": "LeitoBedFeetMissionary-5",
+            "duration": 1.666667
+        }
+    ],
+    "tags": []
+}

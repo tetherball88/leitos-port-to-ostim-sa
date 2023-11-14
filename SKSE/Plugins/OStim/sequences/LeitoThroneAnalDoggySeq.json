@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoThroneAnalDoggy-1",
+            "duration": 1
+        },
+        {
+            "id": "LeitoThroneAnalDoggy-2",
+            "duration": 0.666667
+        },
+        {
+            "id": "LeitoThroneAnalDoggy-3",
+            "duration": 0.6
+        },
+        {
+            "id": "LeitoThroneAnalDoggy-4",
+            "duration": 0.666667
+        },
+        {
+            "id": "LeitoThroneAnalDoggy-5",
+            "duration": 1.666667
+        }
+    ],
+    "tags": []
+}

@@ -1,0 +1,54 @@
+{
+    "name": "Leito Missionary 3",
+    "modpack": "LeitoAnimations",
+    "length": 2.1,
+    "destination": "LeitoMissionary3-4",
+    "speeds": [
+        {
+            "animation": "LeitoMissionary3_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "kissing",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "leito",
+        "missionary",
+        "transition"
+    ]
+}

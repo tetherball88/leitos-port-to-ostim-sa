@@ -1,0 +1,46 @@
+{
+    "name": "Leito Kissing 2",
+    "modpack": "LeitoAnimations",
+    "length": 1.3,
+    "destination": "LeitoHumanPage2",
+    "speeds": [
+        {
+            "animation": "LeitoKissingFemaleStart_3"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "kissing",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "leito",
+        "transition"
+    ]
+}

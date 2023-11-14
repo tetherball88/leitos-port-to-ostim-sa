@@ -1,0 +1,45 @@
+{
+    "name": "Leito Throne Missionary",
+    "modpack": "LeitoAnimations",
+    "length": 2.9,
+    "destination": "LeitoThroneMissionary-4",
+    "speeds": [
+        {
+            "animation": "LeitoThroneMissionary_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": -3,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "leito",
+        "missionary",
+        "transition"
+    ]
+}

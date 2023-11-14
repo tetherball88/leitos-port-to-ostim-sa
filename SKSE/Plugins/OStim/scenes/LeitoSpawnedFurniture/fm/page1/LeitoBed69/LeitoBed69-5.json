@@ -1,0 +1,52 @@
+{
+    "name": "Leito Bed 69",
+    "modpack": "LeitoAnimations",
+    "length": 2.9,
+    "destination": "LeitoBed69-4",
+    "speeds": [
+        {
+            "animation": "LeitoBed69_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "facingaway",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "blowjob",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "noRandomSelection": true,
+    "tags": [
+        "leito",
+        "69",
+        "sixtynine",
+        "transition"
+    ]
+}
