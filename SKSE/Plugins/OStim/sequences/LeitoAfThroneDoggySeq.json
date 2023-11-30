@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoAfThroneDoggy-1",
+            "duration": 1
+        },
+        {
+            "id": "LeitoAfThroneDoggy-2",
+            "duration": 0.666667
+        },
+        {
+            "id": "LeitoAfThroneDoggy-3",
+            "duration": 0.533333
+        },
+        {
+            "id": "LeitoAfThroneDoggy-4",
+            "duration": 0.533333
+        },
+        {
+            "id": "LeitoAfThroneDoggy-5",
+            "duration": 1.666667
+        }
+    ],
+    "tags": []
+}

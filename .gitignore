@@ -1,10 +1,5 @@
 
 Nemesis_Engine
-LeitoGroup.zip
-LeitoHuman.zip
-LeitoLesbian.zip
-LeitoSolo.zip
-LeitoSpawnedFurniture.zip
-LeitoSequences.zip
+*.zip
 fomod/*
 !fomod/fomod

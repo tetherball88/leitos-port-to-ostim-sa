@@ -1,0 +1,55 @@
+{
+    "name": "Leito Bed Footjob",
+    "modpack": "LeitoAnimations",
+    "length": 2.9,
+    "destination": "LeitoAfBedFeetMissionary-4",
+    "speeds": [
+        {
+            "animation": "LeitoAfBedFeetMissionary_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "holdingleg",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "kissingfoot",
+            "actor": 0,
+            "target": 1
+        }
+    ],
+    "tags": [
+        "leito",
+        "missionary",
+        "transition"
+    ],
+    "furniture": "bed"
+}

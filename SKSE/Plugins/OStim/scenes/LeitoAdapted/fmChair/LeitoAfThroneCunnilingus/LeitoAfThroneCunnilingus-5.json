@@ -1,0 +1,53 @@
+{
+    "name": "Leito Throne Cunnilingus",
+    "modpack": "LeitoAnimations",
+    "length": 4.9,
+    "destination": "LeitoAfThroneCunnilingus-4",
+    "speeds": [
+        {
+            "animation": "LeitoAfThroneCunnilingus_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "lickingvagina",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "vaginalfingering",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "pullinghair",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "leito",
+        "transition"
+    ],
+    "furniture": "chair"
+}

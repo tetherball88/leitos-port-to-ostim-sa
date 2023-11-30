@@ -1,0 +1,47 @@
+{
+    "name": "Leito Female Chair Solo",
+    "modpack": "LeitoAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "origin": "LeitoAdaptedFChairHub",
+            "description": "Leito Female Chair Solo",
+            "icon": "OStim/symbols/gender_mf"
+        },
+        {
+            "destination": "LeitoAfFSoloChair-2",
+            "description": "Next",
+            "icon": "OStim/symbols/arrow_right"
+        },
+        {
+            "destination": "LeitoAdaptedFChairHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "LeitoAfFSoloChair_1"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "femalemasturbation",
+            "actor": 0
+        }
+    ],
+    "tags": [
+        "leito"
+    ],
+    "furniture": "chair"
+}

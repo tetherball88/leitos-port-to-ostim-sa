@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoAfThroneAnalReCow-1",
+            "duration": 2
+        },
+        {
+            "id": "LeitoAfThroneAnalReCow-2",
+            "duration": 1.333333
+        },
+        {
+            "id": "LeitoAfThroneAnalReCow-3",
+            "duration": 1.333333
+        },
+        {
+            "id": "LeitoAfThroneAnalReCow-4",
+            "duration": 1
+        },
+        {
+            "id": "LeitoAfThroneAnalReCow-5",
+            "duration": 2.666667
+        }
+    ],
+    "tags": []
+}

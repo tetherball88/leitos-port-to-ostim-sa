@@ -1,0 +1,25 @@
+{
+    "scenes": [
+        {
+            "id": "LeitoAfFSoloChair-1",
+            "duration": 2.666667
+        },
+        {
+            "id": "LeitoAfFSoloChair-2",
+            "duration": 2
+        },
+        {
+            "id": "LeitoAfFSoloChair-3",
+            "duration": 1.8
+        },
+        {
+            "id": "LeitoAfFSoloChair-4",
+            "duration": 0.8
+        },
+        {
+            "id": "LeitoAfFSoloChair-5",
+            "duration": 1.666667
+        }
+    ],
+    "tags": []
+}

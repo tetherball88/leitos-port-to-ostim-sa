@@ -1,0 +1,45 @@
+{
+    "name": "LeitoAdaptedFmBenchHub",
+    "modpack": "LeitoAdapted",
+    "length": 2,
+    "speeds": [
+        {
+            "animation": "OStimBench2PBothSittingMF"
+        }
+    ],
+    "furniture": "bench",
+    "navigations": [
+        {
+            "origin": "OStimBench2PBothSittingMF",
+            "description": "LeitoAdaptedFmBenchHub"
+        },
+        {
+            "destination": "OStimBench2PBothSittingMF",
+            "description": "Return",
+            "icon": "OStim/symbols/return",
+            "priority": -1000
+        }
+    ],
+    "tags": [
+        "idle",
+        "intro"
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "scale": 1.03,
+            "tags": [
+                "sitting"
+            ],
+            "feetOnGround": false
+        },
+        {
+            "intendedSex": "female",
+            "tags": [
+                "sitting"
+            ],
+            "feetOnGround": false
+        }
+    ],
+    "noRandomSelection": true
+}

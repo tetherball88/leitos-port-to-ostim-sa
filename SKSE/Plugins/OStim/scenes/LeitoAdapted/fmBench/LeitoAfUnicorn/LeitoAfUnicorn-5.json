@@ -1,0 +1,50 @@
+{
+    "name": "Leito Unicorn",
+    "modpack": "LeitoAnimations",
+    "length": 2.3,
+    "destination": "LeitoAfUnicorn-4",
+    "speeds": [
+        {
+            "animation": "LeitoAfUnicorn_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 0,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "vaginalsex",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "hug",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "leito",
+        "missionary",
+        "transition"
+    ],
+    "furniture": "bench"
+}

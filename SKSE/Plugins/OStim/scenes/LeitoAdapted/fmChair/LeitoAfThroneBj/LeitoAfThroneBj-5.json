@@ -1,0 +1,50 @@
+{
+    "name": "Leito Throne Blowjob",
+    "modpack": "LeitoAnimations",
+    "length": 2.3,
+    "destination": "LeitoAfThroneBj-4",
+    "speeds": [
+        {
+            "animation": "LeitoAfThroneBj_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "sitting",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "bendover"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "holdinghead",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "deepthroat",
+            "actor": 1,
+            "target": 0,
+            "performer": 0
+        }
+    ],
+    "tags": [
+        "leito",
+        "transition"
+    ],
+    "furniture": "chair"
+}
