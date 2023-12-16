@@ -6,12 +6,12 @@
         {
             "destination": "LeitoAfThroneAnalDoggy-5",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "LeitoAfThroneAnalDoggy-3",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "LeitoAdaptedFmChairHub",

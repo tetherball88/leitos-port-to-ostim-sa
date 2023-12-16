@@ -6,12 +6,12 @@
         {
             "origin": "LeitoLesbianFfHub",
             "description": "Leito Lesbian 2",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/ff_69"
         },
         {
             "destination": "LeitoLesbian2-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoLesbianFfHub",

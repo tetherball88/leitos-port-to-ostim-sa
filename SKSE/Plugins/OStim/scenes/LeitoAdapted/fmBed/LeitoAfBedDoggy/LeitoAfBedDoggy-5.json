@@ -48,5 +48,9 @@
         "doggystyle",
         "transition"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "x": -15,
+        "z": -42
+    }
 }

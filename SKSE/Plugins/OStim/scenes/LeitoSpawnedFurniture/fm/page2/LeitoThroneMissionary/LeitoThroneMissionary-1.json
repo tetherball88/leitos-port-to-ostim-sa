@@ -6,12 +6,12 @@
         {
             "origin": "LeitoSpawnedFurniturePage2",
             "description": "Leito Throne Missionary",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/missionary_mf"
         },
         {
             "destination": "LeitoThroneMissionary-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoSpawnedFurniturePage2",

@@ -11,7 +11,8 @@
     "navigations": [
         {
             "origin": "OStimChair1PSittingF",
-            "description": "LeitoAdaptedFChairHub"
+            "description": "LeitoAdaptedFChairHub",
+            "icon": "OStim/leito_pack"
         },
         {
             "destination": "OStimChair1PSittingF",

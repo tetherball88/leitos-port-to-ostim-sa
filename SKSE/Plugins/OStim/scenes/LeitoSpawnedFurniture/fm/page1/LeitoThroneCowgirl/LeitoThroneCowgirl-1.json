@@ -6,12 +6,12 @@
         {
             "origin": "LeitoSpawnedFurniturePage1",
             "description": "Leito Throne Cowgirl",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/chair/cowgirl_mf"
         },
         {
             "destination": "LeitoThroneCowgirl-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoSpawnedFurniturePage1",

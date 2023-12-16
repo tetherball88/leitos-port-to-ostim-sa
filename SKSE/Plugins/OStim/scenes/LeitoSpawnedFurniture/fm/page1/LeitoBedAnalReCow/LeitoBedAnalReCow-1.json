@@ -6,12 +6,12 @@
         {
             "origin": "LeitoSpawnedFurniturePage1",
             "description": "Leito Bed Anal Reverse Cowgirl",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/reversecowgirl_mf"
         },
         {
             "destination": "LeitoBedAnalReCow-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoSpawnedFurniturePage1",

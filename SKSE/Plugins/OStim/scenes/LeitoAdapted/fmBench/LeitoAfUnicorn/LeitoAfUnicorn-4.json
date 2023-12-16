@@ -6,12 +6,12 @@
         {
             "destination": "LeitoAfUnicorn-5",
             "description": "Next(climax)",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/climax"
         },
         {
             "destination": "LeitoAfUnicorn-3",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "LeitoAdaptedFmBenchHub",
@@ -65,5 +65,9 @@
         "leito",
         "missionary"
     ],
-    "furniture": "bench"
+    "furniture": "bench",
+    "offset": {
+        "z": -95,
+        "r": 90
+    }
 }

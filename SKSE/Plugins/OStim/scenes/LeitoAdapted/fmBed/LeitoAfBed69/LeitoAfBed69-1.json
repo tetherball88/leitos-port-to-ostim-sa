@@ -6,12 +6,12 @@
         {
             "origin": "LeitoAdaptedFmBedHub",
             "description": "Leito Bed 69",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/sixtynine_mf"
         },
         {
             "destination": "LeitoAfBed69-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoAdaptedFmBedHub",
@@ -58,5 +58,8 @@
     "tags": [
         "leito"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "z": -42
+    }
 }

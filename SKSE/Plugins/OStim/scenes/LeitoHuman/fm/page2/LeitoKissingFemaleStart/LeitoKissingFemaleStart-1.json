@@ -1,10 +1,11 @@
 {
     "name": "Leito Kissing 2",
     "modpack": "LeitoAnimations",
-    "length": 2.133333,
+    "length": 1.5,
     "destination": "LeitoKissingFemaleStart-2",
     "origin": "LeitoHumanPage2",
     "description": "Leito Kissing 2",
+    "icon": "OStim/sensual/kissing_mf",
     "speeds": [
         {
             "animation": "LeitoKissingFemaleStart_1"

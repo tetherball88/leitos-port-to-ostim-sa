@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "LeitoHumanFmHub",
-            "description": "LeitoHumanPage1"
+            "description": "LeitoHumanPage1",
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "LeitoHumanFmHub",

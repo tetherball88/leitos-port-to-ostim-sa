@@ -6,12 +6,12 @@
         {
             "origin": "LeitoHumanPage2",
             "description": "Leito Missionary 3",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/missionary_mf"
         },
         {
             "destination": "LeitoMissionary3-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoHumanPage2",

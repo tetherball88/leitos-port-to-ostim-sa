@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "OStim2PStandingCloseFF",
-            "description": "LeitoLesbianFfHub"
+            "description": "LeitoLesbianFfHub",
+            "icon": "OStim/leito_pack"
         },
         {
             "destination": "OStim2PStandingCloseFF",

@@ -11,7 +11,8 @@
     "navigations": [
         {
             "origin": "OStim2PBothLyingMF",
-            "description": "LeitoAdaptedFmBedHub"
+            "description": "LeitoAdaptedFmBedHub",
+            "icon": "OStim/leito_pack"
         },
         {
             "destination": "OStim2PBothLyingMF",

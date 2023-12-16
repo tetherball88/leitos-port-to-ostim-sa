@@ -1,20 +1,20 @@
 {
-    "name": "LeitoHumanPage2",
-    "modpack": "LeitoHuman",
+    "name": "LeitoFPack",
+    "modpack": "Leito",
     "length": 2,
     "speeds": [
         {
-            "animation": "OStim2PStandingApartMF"
+            "animation": "OStim1PStandingF"
         }
     ],
     "navigations": [
         {
-            "origin": "LeitoHumanFmHub",
-            "description": "LeitoHumanPage2",
-            "icon": "OStim/symbols/placeholder"
+            "origin": "OStim1PStandingF",
+            "description": "LeitoFPack",
+            "icon": "OStim/leito_pack"
         },
         {
-            "destination": "LeitoHumanFmHub",
+            "destination": "OStim1PStandingF",
             "description": "Return",
             "icon": "OStim/symbols/return",
             "priority": -1000
@@ -25,15 +25,6 @@
         "intro"
     ],
     "actors": [
-        {
-            "intendedSex": "male",
-            "sosBend": 7,
-            "scale": 1.03,
-            "tags": [
-                "standing"
-            ],
-            "feetOnGround": true
-        },
         {
             "intendedSex": "female",
             "tags": [

@@ -11,7 +11,8 @@
     "navigations": [
         {
             "origin": "OStimChair2PSittingStandingMF",
-            "description": "LeitoAdaptedFmChairHub"
+            "description": "LeitoAdaptedFmChairHub",
+            "icon": "OStim/leito_pack"
         },
         {
             "destination": "OStimChair2PSittingStandingMF",

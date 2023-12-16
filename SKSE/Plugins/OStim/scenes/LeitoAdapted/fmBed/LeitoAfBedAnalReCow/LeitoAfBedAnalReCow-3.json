@@ -6,12 +6,12 @@
         {
             "destination": "LeitoAfBedAnalReCow-4",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoAfBedAnalReCow-2",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "LeitoAdaptedFmBedHub",
@@ -56,5 +56,9 @@
         "leito",
         "reversecowgirl"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "x": -6,
+        "z": -42
+    }
 }

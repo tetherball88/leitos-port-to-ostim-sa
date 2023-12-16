@@ -6,12 +6,12 @@
         {
             "destination": "LeitoBedAnalReCow-4",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoBedAnalReCow-2",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "LeitoSpawnedFurniturePage1",

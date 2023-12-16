@@ -11,7 +11,8 @@
     "navigations": [
         {
             "origin": "OStimBench2PBothSittingMF",
-            "description": "LeitoAdaptedFmBenchHub"
+            "description": "LeitoAdaptedFmBenchHub",
+            "icon": "OStim/leito_pack"
         },
         {
             "destination": "OStimBench2PBothSittingMF",

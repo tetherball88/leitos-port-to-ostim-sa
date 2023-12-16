@@ -6,12 +6,12 @@
         {
             "destination": "LeitoAfBed69-3",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoAfBed69-1",
             "description": "Back",
-            "icon": "OStim/symbols/arrow_left"
+            "icon": "OStim/symbols/previous"
         },
         {
             "destination": "LeitoAdaptedFmBedHub",
@@ -58,5 +58,8 @@
     "tags": [
         "leito"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "z": -42
+    }
 }

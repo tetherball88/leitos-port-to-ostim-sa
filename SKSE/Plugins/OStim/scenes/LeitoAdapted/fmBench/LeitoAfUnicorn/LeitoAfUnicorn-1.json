@@ -6,12 +6,12 @@
         {
             "origin": "LeitoAdaptedFmBenchHub",
             "description": "Leito Unicorn",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/missionary_mf"
         },
         {
             "destination": "LeitoAfUnicorn-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoAdaptedFmBenchHub",
@@ -63,5 +63,9 @@
     "tags": [
         "leito"
     ],
-    "furniture": "bench"
+    "furniture": "bench",
+    "offset": {
+        "z": -90,
+        "r": 90
+    }
 }

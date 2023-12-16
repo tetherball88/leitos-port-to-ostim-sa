@@ -6,12 +6,12 @@
         {
             "origin": "LeitoSoloFHub",
             "description": "Leito Female Dildo Vaginal",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/strapon_insert_vert"
         },
         {
             "destination": "LeitoFSoloDildoVag-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoSoloFHub",

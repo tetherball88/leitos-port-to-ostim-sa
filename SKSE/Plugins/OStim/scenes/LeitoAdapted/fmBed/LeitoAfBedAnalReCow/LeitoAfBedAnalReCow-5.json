@@ -46,5 +46,9 @@
         "reversecowgirl",
         "transition"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "x": -20,
+        "z": -42
+    }
 }

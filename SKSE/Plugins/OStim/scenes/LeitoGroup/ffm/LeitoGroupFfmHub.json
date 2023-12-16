@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "OStim3PStandingMFF",
-            "description": "LeitoGroupFfmHub"
+            "description": "LeitoGroupFfmHub",
+            "icon": "OStim/leito_pack"
         },
         {
             "destination": "OStim3PStandingMFF",

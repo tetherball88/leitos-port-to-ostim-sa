@@ -46,5 +46,9 @@
         "missionary",
         "transition"
     ],
-    "furniture": "bench"
+    "furniture": "bench",
+    "offset": {
+        "z": -95,
+        "r": 90
+    }
 }

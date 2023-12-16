@@ -1,6 +1,6 @@
 {
-    "name": "LeitoHumanPage2",
-    "modpack": "LeitoHuman",
+    "name": "LeitoFmPack",
+    "modpack": "Leito",
     "length": 2,
     "speeds": [
         {
@@ -9,12 +9,12 @@
     ],
     "navigations": [
         {
-            "origin": "LeitoHumanFmHub",
-            "description": "LeitoHumanPage2",
-            "icon": "OStim/symbols/placeholder"
+            "origin": "OStim2PStandingApartMF",
+            "description": "LeitoFmPack",
+            "icon": "OStim/leito_pack"
         },
         {
-            "destination": "LeitoHumanFmHub",
+            "destination": "OStim2PStandingApartMF",
             "description": "Return",
             "icon": "OStim/symbols/return",
             "priority": -1000

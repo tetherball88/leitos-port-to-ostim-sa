@@ -6,12 +6,12 @@
         {
             "origin": "LeitoSpawnedFurniturePage1",
             "description": "Leito Bed Anal Doggy",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/doggystyle_mf"
         },
         {
             "destination": "LeitoBedAnalDoggy-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoSpawnedFurniturePage1",

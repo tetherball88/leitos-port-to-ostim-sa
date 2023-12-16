@@ -6,12 +6,12 @@
         {
             "origin": "LeitoAdaptedFmBedHub",
             "description": "Leito Bed Doggy",
-            "icon": "OStim/symbols/gender_mf"
+            "icon": "OStim/sexual/doggystyle_mf"
         },
         {
             "destination": "LeitoAfBedDoggy-2",
             "description": "Next",
-            "icon": "OStim/symbols/arrow_right"
+            "icon": "OStim/symbols/next"
         },
         {
             "destination": "LeitoAdaptedFmBedHub",
@@ -56,5 +56,9 @@
         "leito",
         "doggystyle"
     ],
-    "furniture": "bed"
+    "furniture": "bed",
+    "offset": {
+        "x": -15,
+        "z": -42
+    }
 }

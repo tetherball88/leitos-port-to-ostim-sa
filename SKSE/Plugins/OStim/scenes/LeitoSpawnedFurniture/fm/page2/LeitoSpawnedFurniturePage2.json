@@ -10,7 +10,8 @@
     "navigations": [
         {
             "origin": "LeitoSpawnedFurnitureFmHub",
-            "description": "LeitoSpawnedFurniturePage2"
+            "description": "LeitoSpawnedFurniturePage2",
+            "icon": "OStim/symbols/placeholder"
         },
         {
             "destination": "LeitoSpawnedFurnitureFmHub",
