@@ -1,0 +1,71 @@
+{
+    "name": "Leito Lesbian 1",
+    "modpack": "LeitoAnimations",
+    "length": 2,
+    "navigations": [
+        {
+            "destination": "LeitoLesbian1-3",
+            "description": "Next",
+            "icon": "OStim/symbols/next"
+        },
+        {
+            "destination": "LeitoLesbian1-1",
+            "description": "Back",
+            "icon": "OStim/symbols/previous"
+        },
+        {
+            "destination": "LeitoLesbianFfHub",
+            "description": "Return",
+            "icon": "OStim/symbols/return"
+        },
+        {
+            "destination": "LeitoLesbian1-2SwappedM0-F1",
+            "description": "Rotate females",
+            "icon": "OStim/symbols/rotate_cw"
+        }
+    ],
+    "speeds": [
+        {
+            "animation": "LeitoLesbian1_2"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "spreadlegs"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "kneeling"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "pattinghead",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "cunnilingus",
+            "actor": 1,
+            "target": 0
+        },
+        {
+            "type": "vaginalfingering",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "leito"
+    ]
+}

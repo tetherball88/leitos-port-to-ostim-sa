@@ -1,0 +1,59 @@
+{
+    "name": "Leito Threesome MMF 1",
+    "modpack": "LeitoAnimations",
+    "length": 3.5,
+    "destination": "LeitoMmf1-4",
+    "speeds": [
+        {
+            "animation": "LeitoMmf1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 4,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "squatting",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "male",
+            "sosBend": 2,
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "lyingback",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "climaxing"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "type": "analsex",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "vaginalsex",
+            "actor": 1,
+            "target": 2
+        }
+    ],
+    "tags": [
+        "leito",
+        "dp",
+        "transition"
+    ]
+}

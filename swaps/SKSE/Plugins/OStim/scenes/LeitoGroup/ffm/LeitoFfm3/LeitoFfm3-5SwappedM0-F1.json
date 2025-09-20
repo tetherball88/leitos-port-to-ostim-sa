@@ -1,0 +1,69 @@
+{
+    "name": "Leito Threesome FFM 3",
+    "modpack": "LeitoAnimations",
+    "length": 2.9,
+    "destination": "LeitoFfm3-4SwappedM0-F1",
+    "speeds": [
+        {
+            "animation": "LeitoFfm3_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "male",
+            "sosBend": 1,
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "standing",
+                "climaxing"
+            ]
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": false,
+            "tags": [
+                "allfours",
+                "onbottom",
+                "climaxing"
+            ],
+            "animationIndex": 2
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "allfours",
+                "ontop",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        }
+    ],
+    "actions": [
+        {
+            "type": "malemasturbation",
+            "actor": 0
+        },
+        {
+            "type": "cumonbutt",
+            "actor": 0,
+            "target": 1
+        },
+        {
+            "type": "cumonbutt",
+            "actor": 0,
+            "target": 2
+        },
+        {
+            "type": "femalemasturbation",
+            "actor": 2
+        }
+    ],
+    "tags": [
+        "leito",
+        "transition"
+    ]
+}

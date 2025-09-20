@@ -1,0 +1,46 @@
+{
+    "name": "Leito Lesbian 1",
+    "modpack": "LeitoAnimations",
+    "length": 3.5,
+    "destination": "LeitoLesbian1-4SwappedM0-F1",
+    "speeds": [
+        {
+            "animation": "LeitoLesbian1_5"
+        }
+    ],
+    "actors": [
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "kneeling",
+                "spreadlegs",
+                "climaxing"
+            ],
+            "animationIndex": 1
+        },
+        {
+            "intendedSex": "female",
+            "scale": 1,
+            "feetOnGround": true,
+            "tags": [
+                "lyingback",
+                "spreadlegs",
+                "climaxing"
+            ],
+            "animationIndex": 0
+        }
+    ],
+    "actions": [
+        {
+            "type": "tribbing",
+            "actor": 1,
+            "target": 0
+        }
+    ],
+    "tags": [
+        "leito",
+        "transition"
+    ]
+}
